@@ -2,7 +2,7 @@ body{
   background-color: #F0FFFF;
 }
 header{
-background-color:rgba(228, 238, 241, 1);
+/* background-color:rgba(228, 238, 241, 1);*/
   /* background-color: #eaf0f2; */
   border-bottom-left-radius: 10px;
   border-bottom-right-radius:  10px;
@@ -11,6 +11,7 @@ background-color:rgba(228, 238, 241, 1);
   color: gray;
   font-weight:300;
   font-size: 18px;
+  font-family: sans-serif;
 
 }
 
