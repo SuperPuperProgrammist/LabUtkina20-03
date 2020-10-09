@@ -82,6 +82,9 @@ margin-top: 40px;
   box-shadow: -5px -5px 30px rgba(255,255,255,0.6), 4px 5px 30px rgba(156,193,240,0.9);
 }
 
+.otch button: hover{
+ background-color: DarkBlue; 
+}
 
    @font-face {
        font-family: OpenSans; /* Имя шрифта */
