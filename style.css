@@ -30,7 +30,7 @@ background-color:rgba(228, 238, 241, 1);
 .aboutme{
 
   margin-top: 200px;
-  color: DimGrey;
+  
 
 }
 
@@ -39,6 +39,7 @@ background-color:rgba(228, 238, 241, 1);
   font-family: sans-serif;
   text-align: center;
   font-size: 20px;
+  color: DimGrey;
 
 }
 
