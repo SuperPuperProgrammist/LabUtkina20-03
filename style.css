@@ -100,7 +100,9 @@ margin-top: 40px;
 .lab1 p{
  font-size: 24px; 
 }
-
+.lab1 img{
+  width: 300px;
+}
    @font-face {
        font-family: OpenSans; /* Имя шрифта */
        src: url(../css/opensans-regular.ttf); /* Путь к файлу со шрифтом */
