@@ -86,6 +86,21 @@ margin-top: 40px;
  background-color: DarkBlue; 
 }
 
+.lab1{
+  font-family: sans-serif;
+   color: DimGrey;
+  margin-left: 20px;
+}
+
+.hh1{
+  text-align: center;
+  font-size: 40px;
+}
+
+.lab1 p{
+ font-size: 24px; 
+}
+
    @font-face {
        font-family: OpenSans; /* Имя шрифта */
        src: url(../css/opensans-regular.ttf); /* Путь к файлу со шрифтом */
