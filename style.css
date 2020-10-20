@@ -95,10 +95,19 @@ margin-top: 40px;
 .hh1{
   text-align: center;
   font-size: 40px;
+  font-family: sans-serif;
+   color: DimGrey;
 }
 
 .lab1 p{
  font-size: 24px; 
+  font-family: sans-serif;
+   color: DimGrey;
+}
+.lab1 a{
+  font-size: 24px; 
+  font-family: sans-serif;
+  color: DimGrey;
 }
 .lab1 img{
   width: 650px;
